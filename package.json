@@ -1,5 +1,5 @@
 {
-  "name": "electron-instagram",
+  "name": "electron-speechat",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.example.electron-instagram",
-    "productName": "Electron Instagram",
+    "appId": "com.example.electron-speechat",
+    "productName": "Electron speechat",
     "directories": {
       "output": "dist"
     },
