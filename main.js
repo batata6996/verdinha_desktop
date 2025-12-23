@@ -10,7 +10,7 @@ function createWindow() {
     }
   });
 
-  win.loadURL('site');
+  win.loadURL('https://www.verdinha.wtf');
   win.maximize();
 
 }

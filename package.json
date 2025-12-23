@@ -1,5 +1,5 @@
 {
-  "name": "electron-speechat",
+  "name": "electron-verdinha",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.example.electron-speechat",
-    "productName": "Electron speechat",
+    "appId": "com.example.electron-verdinha",
+    "productName": "Electron verdinha",
     "directories": {
       "output": "dist"
     },
